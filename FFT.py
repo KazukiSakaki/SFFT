@@ -129,3 +129,6 @@ while runnumber < stop:
 	else:
 		print testname +" does not exist"
 		runnumber = runnumber + 1
+
+def newFunction():
+	return
